@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CCMS</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- HINT -->
+    <string name="hint_username">Entered username</string>
+
+    <!-- BUTTON -->
+    <string name="button_ok">OK</string>
+    <string name="button_register">Register</string>
+
+    <!-- ERROR -->
+    <string name="error_username_empty">Username can not be blank</string>
+    <string name="error_username_length">Username need to be in 4 characters</string>
+</resources>
