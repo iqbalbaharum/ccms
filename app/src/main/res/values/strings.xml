@@ -12,4 +12,5 @@
     <!-- ERROR -->
     <string name="error_username_empty">Username can not be blank</string>
     <string name="error_username_length">Username need to be in 4 characters</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>
